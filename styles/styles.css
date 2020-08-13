@@ -1025,6 +1025,9 @@ footer p {
   #contact {
     height: 120vh;
   }
+  #particles-js {
+    height: 110vh;
+  }
 }
 
 @media all and (max-width: 1049px) {
